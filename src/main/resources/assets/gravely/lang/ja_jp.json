@@ -1,0 +1,20 @@
+{
+  "itemGroup.gravely": "Gravely",
+
+  "block.gravely.grave": "墓",
+
+  "message.gravely.grave_created": "%s にアイテムを保管した墓を作りました",
+  "message.gravely.grave_created_hover": "クリックで /tp コマンドを入力",
+  "message.gravely.grave_no_access": "この墓は %s のものです。開けることができません",
+  "message.gravely.recovered": "アイテムをすべて回収しました",
+  "message.gravely.timed_protected": "この墓はあと %s 保護されています",
+
+  "gravely.config.title": "Gravely",
+  "gravely.config.placement": "設置",
+  "gravely.config.protection": "保護",
+  "gravely.config.notification": "通知",
+  "gravely.config.feature": "機能",
+
+  "enchantment.gravely.soulbound": "ソウルバウンド",
+  "enchantment.gravely.soulbound.desc": "死亡してもインベントリに残る"
+}

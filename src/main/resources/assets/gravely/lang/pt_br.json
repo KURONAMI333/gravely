@@ -1,0 +1,20 @@
+{
+  "itemGroup.gravely": "Gravely",
+
+  "block.gravely.grave": "Túmulo",
+
+  "message.gravely.grave_created": "Criou um túmulo com seus itens em %s",
+  "message.gravely.grave_created_hover": "Clique para inserir o comando /tp",
+  "message.gravely.grave_no_access": "Este túmulo pertence a %s. Você não pode abri-lo",
+  "message.gravely.recovered": "Todos os itens recuperados",
+  "message.gravely.timed_protected": "Este túmulo está protegido por mais %s",
+
+  "gravely.config.title": "Gravely",
+  "gravely.config.placement": "Posicionamento",
+  "gravely.config.protection": "Proteção",
+  "gravely.config.notification": "Notificações",
+  "gravely.config.feature": "Recursos",
+
+  "enchantment.gravely.soulbound": "Vínculo de alma",
+  "enchantment.gravely.soulbound.desc": "O item permanece em seu inventário ao morrer"
+}

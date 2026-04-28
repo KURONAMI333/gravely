@@ -1,0 +1,20 @@
+{
+  "itemGroup.gravely": "Gravely",
+
+  "block.gravely.grave": "Grav",
+
+  "message.gravely.grave_created": "En grav med dina föremål skapades vid %s",
+  "message.gravely.grave_created_hover": "Klicka för att infoga /tp-kommandot",
+  "message.gravely.grave_no_access": "Denna grav tillhör %s. Du kan inte öppna den",
+  "message.gravely.recovered": "Alla föremål återhämtade",
+  "message.gravely.timed_protected": "Denna grav är skyddad i ytterligare %s",
+
+  "gravely.config.title": "Gravely",
+  "gravely.config.placement": "Placering",
+  "gravely.config.protection": "Skydd",
+  "gravely.config.notification": "Meddelanden",
+  "gravely.config.feature": "Funktioner",
+
+  "enchantment.gravely.soulbound": "Själsbunden",
+  "enchantment.gravely.soulbound.desc": "Föremålet stannar i inventariet vid döden"
+}

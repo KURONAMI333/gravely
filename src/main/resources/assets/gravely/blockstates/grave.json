@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,waterlogged=false": { "model": "gravely:block/grave" },
+    "facing=north,waterlogged=true":  { "model": "gravely:block/grave" },
+    "facing=east,waterlogged=false":  { "model": "gravely:block/grave", "y": 90 },
+    "facing=east,waterlogged=true":   { "model": "gravely:block/grave", "y": 90 },
+    "facing=south,waterlogged=false": { "model": "gravely:block/grave", "y": 180 },
+    "facing=south,waterlogged=true":  { "model": "gravely:block/grave", "y": 180 },
+    "facing=west,waterlogged=false":  { "model": "gravely:block/grave", "y": 270 },
+    "facing=west,waterlogged=true":   { "model": "gravely:block/grave", "y": 270 }
+  }
+}

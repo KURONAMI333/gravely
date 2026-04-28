@@ -1,0 +1,20 @@
+{
+  "itemGroup.gravely": "Gravely",
+
+  "block.gravely.grave": "Grab",
+
+  "message.gravely.grave_created": "Ein Grab mit deinen Gegenständen wurde bei %s erstellt",
+  "message.gravely.grave_created_hover": "Klicken, um den /tp-Befehl einzufügen",
+  "message.gravely.grave_no_access": "Dieses Grab gehört %s. Du kannst es nicht öffnen",
+  "message.gravely.recovered": "Alle Gegenstände wiederhergestellt",
+  "message.gravely.timed_protected": "Dieses Grab ist noch %s lang geschützt",
+
+  "gravely.config.title": "Gravely",
+  "gravely.config.placement": "Platzierung",
+  "gravely.config.protection": "Schutz",
+  "gravely.config.notification": "Benachrichtigungen",
+  "gravely.config.feature": "Funktionen",
+
+  "enchantment.gravely.soulbound": "Seelengebunden",
+  "enchantment.gravely.soulbound.desc": "Gegenstand bleibt beim Tod im Inventar"
+}

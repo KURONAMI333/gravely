@@ -1,0 +1,20 @@
+{
+  "itemGroup.gravely": "Gravely",
+
+  "block.gravely.grave": "Hauta",
+
+  "message.gravely.grave_created": "Tavaroitasi sisältävä hauta luotiin paikkaan %s",
+  "message.gravely.grave_created_hover": "Napsauta lisätäksesi /tp-komennon",
+  "message.gravely.grave_no_access": "Tämä hauta kuuluu pelaajalle %s. Et voi avata sitä",
+  "message.gravely.recovered": "Kaikki esineet palautettu",
+  "message.gravely.timed_protected": "Tämä hauta on suojattu vielä %s",
+
+  "gravely.config.title": "Gravely",
+  "gravely.config.placement": "Sijoittelu",
+  "gravely.config.protection": "Suojaus",
+  "gravely.config.notification": "Ilmoitukset",
+  "gravely.config.feature": "Ominaisuudet",
+
+  "enchantment.gravely.soulbound": "Sieluside",
+  "enchantment.gravely.soulbound.desc": "Esine pysyy tavaraluettelossa kuoltaessa"
+}

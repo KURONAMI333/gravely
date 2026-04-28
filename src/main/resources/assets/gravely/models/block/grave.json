@@ -1,0 +1,21 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "particle": "minecraft:block/cobblestone",
+    "stone": "minecraft:block/cobblestone"
+  },
+  "elements": [
+    {
+      "from": [1, 0, 5],
+      "to": [15, 12, 11],
+      "faces": {
+        "north": { "uv": [1, 4, 15, 16], "texture": "#stone" },
+        "east":  { "uv": [5, 4, 11, 16], "texture": "#stone" },
+        "south": { "uv": [1, 4, 15, 16], "texture": "#stone" },
+        "west":  { "uv": [5, 4, 11, 16], "texture": "#stone" },
+        "up":    { "uv": [1, 5, 15, 11], "texture": "#stone" },
+        "down":  { "uv": [1, 5, 15, 11], "texture": "#stone" }
+      }
+    }
+  ]
+}

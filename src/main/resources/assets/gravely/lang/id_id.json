@@ -1,0 +1,20 @@
+{
+  "itemGroup.gravely": "Gravely",
+
+  "block.gravely.grave": "Kuburan",
+
+  "message.gravely.grave_created": "Kuburan berisi item Anda dibuat di %s",
+  "message.gravely.grave_created_hover": "Klik untuk memasukkan perintah /tp",
+  "message.gravely.grave_no_access": "Kuburan ini milik %s. Anda tidak bisa membukanya",
+  "message.gravely.recovered": "Semua item dipulihkan",
+  "message.gravely.timed_protected": "Kuburan ini masih dilindungi selama %s lagi",
+
+  "gravely.config.title": "Gravely",
+  "gravely.config.placement": "Penempatan",
+  "gravely.config.protection": "Perlindungan",
+  "gravely.config.notification": "Notifikasi",
+  "gravely.config.feature": "Fitur",
+
+  "enchantment.gravely.soulbound": "Terikat Jiwa",
+  "enchantment.gravely.soulbound.desc": "Item tetap di inventaris saat mati"
+}

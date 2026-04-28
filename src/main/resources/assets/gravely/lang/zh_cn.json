@@ -1,0 +1,20 @@
+{
+  "itemGroup.gravely": "Gravely",
+
+  "block.gravely.grave": "坟墓",
+
+  "message.gravely.grave_created": "在 %s 处创建了存放您物品的坟墓",
+  "message.gravely.grave_created_hover": "点击插入 /tp 命令",
+  "message.gravely.grave_no_access": "这个坟墓属于 %s。您无法打开它",
+  "message.gravely.recovered": "已找回所有物品",
+  "message.gravely.timed_protected": "这个坟墓还会被保护 %s",
+
+  "gravely.config.title": "Gravely",
+  "gravely.config.placement": "放置",
+  "gravely.config.protection": "保护",
+  "gravely.config.notification": "通知",
+  "gravely.config.feature": "功能",
+
+  "enchantment.gravely.soulbound": "灵魂绑定",
+  "enchantment.gravely.soulbound.desc": "死亡时不会从背包丢失"
+}

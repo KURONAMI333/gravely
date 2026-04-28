@@ -1,0 +1,20 @@
+{
+  "itemGroup.gravely": "Gravely",
+
+  "block.gravely.grave": "Graf",
+
+  "message.gravely.grave_created": "Een graf met je items is gemaakt op %s",
+  "message.gravely.grave_created_hover": "Klik om het /tp-commando in te voegen",
+  "message.gravely.grave_no_access": "Dit graf behoort toe aan %s. Je kunt het niet openen",
+  "message.gravely.recovered": "Alle items teruggevonden",
+  "message.gravely.timed_protected": "Dit graf is nog %s beschermd",
+
+  "gravely.config.title": "Gravely",
+  "gravely.config.placement": "Plaatsing",
+  "gravely.config.protection": "Bescherming",
+  "gravely.config.notification": "Meldingen",
+  "gravely.config.feature": "Functies",
+
+  "enchantment.gravely.soulbound": "Zielgebonden",
+  "enchantment.gravely.soulbound.desc": "Item blijft in je inventaris bij overlijden"
+}

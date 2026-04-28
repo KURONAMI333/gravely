@@ -1,0 +1,20 @@
+{
+  "itemGroup.gravely": "Gravely",
+
+  "block.gravely.grave": "Могила",
+
+  "message.gravely.grave_created": "Створено могилу з вашими предметами в %s",
+  "message.gravely.grave_created_hover": "Натисніть, щоб вставити команду /tp",
+  "message.gravely.grave_no_access": "Ця могила належить %s. Ви не можете її відкрити",
+  "message.gravely.recovered": "Всі предмети повернуто",
+  "message.gravely.timed_protected": "Ця могила захищена ще %s",
+
+  "gravely.config.title": "Gravely",
+  "gravely.config.placement": "Розміщення",
+  "gravely.config.protection": "Захист",
+  "gravely.config.notification": "Сповіщення",
+  "gravely.config.feature": "Функції",
+
+  "enchantment.gravely.soulbound": "Прив'язаний до душі",
+  "enchantment.gravely.soulbound.desc": "Предмет залишається в інвентарі після смерті"
+}

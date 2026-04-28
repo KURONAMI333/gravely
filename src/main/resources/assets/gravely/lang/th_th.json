@@ -1,0 +1,20 @@
+{
+  "itemGroup.gravely": "Gravely",
+
+  "block.gravely.grave": "หลุมศพ",
+
+  "message.gravely.grave_created": "สร้างหลุมศพพร้อมไอเทมของคุณที่ %s",
+  "message.gravely.grave_created_hover": "คลิกเพื่อใส่คำสั่ง /tp",
+  "message.gravely.grave_no_access": "หลุมศพนี้เป็นของ %s คุณไม่สามารถเปิดได้",
+  "message.gravely.recovered": "คืนไอเทมทั้งหมดแล้ว",
+  "message.gravely.timed_protected": "หลุมศพนี้ยังคงได้รับการป้องกันอีก %s",
+
+  "gravely.config.title": "Gravely",
+  "gravely.config.placement": "การวาง",
+  "gravely.config.protection": "การป้องกัน",
+  "gravely.config.notification": "การแจ้งเตือน",
+  "gravely.config.feature": "คุณสมบัติ",
+
+  "enchantment.gravely.soulbound": "ผูกพันวิญญาณ",
+  "enchantment.gravely.soulbound.desc": "ไอเทมยังคงอยู่ในกระเป๋าเมื่อตาย"
+}

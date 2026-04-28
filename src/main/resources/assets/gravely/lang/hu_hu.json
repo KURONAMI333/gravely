@@ -1,0 +1,20 @@
+{
+  "itemGroup.gravely": "Gravely",
+
+  "block.gravely.grave": "Sír",
+
+  "message.gravely.grave_created": "A tárgyaidat tartalmazó sír létrejött itt: %s",
+  "message.gravely.grave_created_hover": "Kattints a /tp parancs beillesztéséhez",
+  "message.gravely.grave_no_access": "Ez a sír %s tulajdona. Nem nyithatod ki",
+  "message.gravely.recovered": "Minden tárgy visszaszerezve",
+  "message.gravely.timed_protected": "Ez a sír még %s ideig védett",
+
+  "gravely.config.title": "Gravely",
+  "gravely.config.placement": "Elhelyezés",
+  "gravely.config.protection": "Védelem",
+  "gravely.config.notification": "Értesítések",
+  "gravely.config.feature": "Funkciók",
+
+  "enchantment.gravely.soulbound": "Lélekkötés",
+  "enchantment.gravely.soulbound.desc": "A tárgy a halálkor az inventárban marad"
+}

@@ -1,0 +1,20 @@
+{
+  "itemGroup.gravely": "Gravely",
+
+  "block.gravely.grave": "무덤",
+
+  "message.gravely.grave_created": "%s 위치에 아이템이 보관된 무덤을 생성했습니다",
+  "message.gravely.grave_created_hover": "클릭하여 /tp 명령어 입력",
+  "message.gravely.grave_no_access": "이 무덤은 %s의 것입니다. 열 수 없습니다",
+  "message.gravely.recovered": "모든 아이템을 회수했습니다",
+  "message.gravely.timed_protected": "이 무덤은 앞으로 %s 동안 보호됩니다",
+
+  "gravely.config.title": "Gravely",
+  "gravely.config.placement": "배치",
+  "gravely.config.protection": "보호",
+  "gravely.config.notification": "알림",
+  "gravely.config.feature": "기능",
+
+  "enchantment.gravely.soulbound": "영혼 결속",
+  "enchantment.gravely.soulbound.desc": "죽어도 인벤토리에 남습니다"
+}

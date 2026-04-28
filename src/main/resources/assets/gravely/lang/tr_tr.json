@@ -1,0 +1,20 @@
+{
+  "itemGroup.gravely": "Gravely",
+
+  "block.gravely.grave": "Mezar",
+
+  "message.gravely.grave_created": "%s konumunda eşyalarınızı içeren bir mezar oluşturuldu",
+  "message.gravely.grave_created_hover": "/tp komutunu eklemek için tıklayın",
+  "message.gravely.grave_no_access": "Bu mezar %s kişisine ait. Açamazsınız",
+  "message.gravely.recovered": "Tüm eşyalar geri alındı",
+  "message.gravely.timed_protected": "Bu mezar %s daha korunacak",
+
+  "gravely.config.title": "Gravely",
+  "gravely.config.placement": "Yerleştirme",
+  "gravely.config.protection": "Koruma",
+  "gravely.config.notification": "Bildirimler",
+  "gravely.config.feature": "Özellikler",
+
+  "enchantment.gravely.soulbound": "Ruh Bağı",
+  "enchantment.gravely.soulbound.desc": "Öldüğünüzde eşya envanterinizde kalır"
+}

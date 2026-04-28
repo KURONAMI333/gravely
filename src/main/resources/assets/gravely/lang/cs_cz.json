@@ -1,0 +1,20 @@
+{
+  "itemGroup.gravely": "Gravely",
+
+  "block.gravely.grave": "Hrob",
+
+  "message.gravely.grave_created": "Hrob s vašimi předměty byl vytvořen na %s",
+  "message.gravely.grave_created_hover": "Klikněte pro vložení příkazu /tp",
+  "message.gravely.grave_no_access": "Tento hrob patří %s. Nemůžete jej otevřít",
+  "message.gravely.recovered": "Všechny předměty získány zpět",
+  "message.gravely.timed_protected": "Tento hrob je chráněn ještě %s",
+
+  "gravely.config.title": "Gravely",
+  "gravely.config.placement": "Umístění",
+  "gravely.config.protection": "Ochrana",
+  "gravely.config.notification": "Oznámení",
+  "gravely.config.feature": "Funkce",
+
+  "enchantment.gravely.soulbound": "Spojení s duší",
+  "enchantment.gravely.soulbound.desc": "Předmět zůstává v inventáři po smrti"
+}

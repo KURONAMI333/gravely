@@ -1,0 +1,20 @@
+{
+  "itemGroup.gravely": "Gravely",
+
+  "block.gravely.grave": "Mộ",
+
+  "message.gravely.grave_created": "Đã tạo một ngôi mộ chứa vật phẩm của bạn tại %s",
+  "message.gravely.grave_created_hover": "Nhấp để chèn lệnh /tp",
+  "message.gravely.grave_no_access": "Ngôi mộ này thuộc về %s. Bạn không thể mở nó",
+  "message.gravely.recovered": "Đã thu hồi tất cả vật phẩm",
+  "message.gravely.timed_protected": "Ngôi mộ này sẽ được bảo vệ thêm %s nữa",
+
+  "gravely.config.title": "Gravely",
+  "gravely.config.placement": "Vị trí",
+  "gravely.config.protection": "Bảo vệ",
+  "gravely.config.notification": "Thông báo",
+  "gravely.config.feature": "Tính năng",
+
+  "enchantment.gravely.soulbound": "Gắn linh hồn",
+  "enchantment.gravely.soulbound.desc": "Vật phẩm vẫn ở trong túi đồ khi chết"
+}
