@@ -11,7 +11,6 @@ import net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent;
  *  - バニラの FUNCTIONAL_BLOCKS タブに墓を追加するだけ
  *  - 将来アイテム/ブロック増えたら独自タブ復活を検討
  *  - NeoForge 1.21 の withTabsBefore/After は他MOD制約と衝突して順序が安定しない
- *    (詳細は ~/local-workspace/reference_neoforge_creative_tab_ordering.md)
  */
 public final class GravelyTabs {
 

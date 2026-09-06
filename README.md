@@ -2,7 +2,7 @@
 
 > A clean, lightweight grave mod with broad mod compatibility.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey.svg)](LICENSE)
 
 ---
 
@@ -96,7 +96,7 @@ A. はい、安全です。新規にロード時から有効化されます。
 A. 可能ですが、Gravely が優先されます (`EventPriority.HIGHEST` + `event.setCanceled`)。起動時にログで警告を出します。重複する機能は片方を無効化する方が安定します。
 
 **Q. modpack に組み込んでいい？**  
-A. もちろん。MIT ライセンスなので modpack 利用 OK、許可・通知不要です。
+A. もちろん。modpack への同梱は自由です（許可・通知不要）。
 
 **Q. JourneyMap 標準の死亡 waypoint と被るのでは？**  
 A. 被りません。Gravely は JM API の `DeathWaypointEvent` をキャンセルして標準機能を抑制し、Gravely 専用の紫 waypoint だけ残します。
@@ -125,11 +125,11 @@ Gravely は 22 言語に対応:
 
 ## License
 
-[MIT License](LICENSE) — modpack 利用、改変、再配布 OK。クレジット不要ですが歓迎。
+[All Rights Reserved](LICENSE) — modpack への同梱は自由（許可・クレジット不要）。単体での再配布と改変版の配布は不可。ソースは読めるように公開しています。
 
 ---
 
 ## Credits
 
-- Author: KURONAMI333
+- Author: KURONAMI
 - 参考: [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone), [gravestone (henkelmax)](https://modrinth.com/mod/gravestone-mod), [YIGD](https://modrinth.com/mod/yigd), [Universal Graves](https://modrinth.com/mod/universal-graves), [awildhooman/Soulbound Mod](https://modrinth.com/mod/awildhooman-soulbound-enchantment)
