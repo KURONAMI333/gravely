@@ -10,7 +10,7 @@ import net.neoforged.fml.ModList;
 /**
  * 他のお墓 MOD との競合検出。
  *
- * 設計判断 (2026-04-27, KURONAMI333承認):
+ * 設計判断 (2026-04-27):
  *  - Gravely 優先: 競合 MOD が居ても Gravely が drops を引き取る
  *  - LivingDropsEvent を priority=HIGHEST で受けて event.setCanceled(true) で他MODを抑制
  *  - 起動時 1 回ログ警告、初回死亡時にプレイヤーへ chat 通知

@@ -10,7 +10,7 @@ version="${mod_version}"
 displayName="${mod_name}"
 authors="KURONAMI333"
 displayURL="https://github.com/KURONAMI333/gravely"
-issueTrackerURL="https://github.com/KURONAMI333/gravely/issues"
+issueTrackerURL="https://x.com/kuronami333"
 description='''
 Gravely — A clean, lightweight grave mod with broad mod compatibility.
 '''

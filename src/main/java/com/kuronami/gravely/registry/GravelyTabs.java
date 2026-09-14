@@ -6,7 +6,7 @@ import net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent;
 /**
  * Gravely のクリエイティブタブ統合。
  *
- * 設計判断 (2026-04-27, KURONAMI333承認):
+ * 設計判断 (2026-04-27):
  *  - 独自タブは作らない (墓ブロック1個しかない、独自タブは過剰)
  *  - バニラの FUNCTIONAL_BLOCKS タブに墓を追加するだけ
  *  - 将来アイテム/ブロック増えたら独自タブ復活を検討
